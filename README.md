@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![alt text](https://github.com/usinakenes/game-of-life/blob/main/game-of-life-screenshot.png?raw=true)
+![alt text](https://github.com/usinakenes/game-of-life/blob/main/game-of-life-image.png?raw=true)
 
 
 -----
