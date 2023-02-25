@@ -1,3 +1,10 @@
+# Conway's Game of Life
+
+![alt text](https://github.com/usinakenes/game-of-life/blob/main/game-of-life-screenshot.png?raw=true)
+
+
+-----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
