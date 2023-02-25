@@ -1,5 +1,11 @@
 # Conway's Game of Life
 
+Check it out at https://sina-game-of-life.netlify.app/
+
+A fun recreation of Conway's renowned cellular automaton 'Game of Life'.
+
+Note: Aware of a bug on mobile devices where canvas updates way too quickly, leading to anomalies. A workaround is to hold down finger when placing patterns.
+
 ![alt text](https://github.com/usinakenes/game-of-life/blob/main/screenshot.png?raw=true)
 
 
